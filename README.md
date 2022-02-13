@@ -6,4 +6,5 @@
   <li>FizzBuzz</li>
   <li>Remove Duplicates From List</li>
   <li>Fibonacci</li>
+  <li>Password Checker</li>
 </ul>
