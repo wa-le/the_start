@@ -5,4 +5,5 @@
   <li>Add Even Numbers</li>
   <li>FizzBuzz</li>
   <li>Remove Duplicates From List</li>
+  <li>Fibonacci</li>
 </ul>
