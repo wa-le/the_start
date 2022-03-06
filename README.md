@@ -9,4 +9,5 @@
   <li>Password Checker</li>
   <li>API Intro</li>
   <li>Send Email with python</li>
+  <li>Clock GUI</li>
 </ul>
