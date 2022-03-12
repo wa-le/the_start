@@ -10,4 +10,6 @@
   <li>API Intro</li>
   <li>Send Email with python</li>
   <li>Clock GUI</li>
+  <li>Lambda, Map, Filter, Reduce functions</li>
+  <li>using pyautogui (no_spam.py)</li>
 </ul>
